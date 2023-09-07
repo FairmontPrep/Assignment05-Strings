@@ -44,7 +44,7 @@ public class CodeWordChecker {
      */
     public CodeWordChecker(String symbol){
         // Insert code below
-        
+
     }
 
     /* COMPLETE THIS METHOD
