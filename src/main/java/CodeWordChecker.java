@@ -27,7 +27,7 @@ public class CodeWordChecker {
      */
     public CodeWordChecker(int minLen, int maxLen, String symbol){
         // Insert code below
-
+        
     }
 
     /* COMPLETE THIS CONSTRUCTOR
@@ -44,7 +44,7 @@ public class CodeWordChecker {
      */
     public CodeWordChecker(String symbol){
         // Insert code below
-
+        
     }
 
     /* COMPLETE THIS METHOD
@@ -57,7 +57,6 @@ public class CodeWordChecker {
      */
     public boolean isValid(String str){
         // Insert code below
-
         return false;
     }
 }

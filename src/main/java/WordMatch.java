@@ -52,7 +52,7 @@ public class WordMatch {
      */
     public String findBetterGuess(String guess1, String guess2){
         // Insert code below
-
+        
         return "";
     }
 }

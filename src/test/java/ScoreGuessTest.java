@@ -86,7 +86,7 @@ public class ScoreGuessTest {
         String guess = "aa";
         WordMatch g = new WordMatch(word);
         int score = g.scoreGuess(guess);
-        int expected = 36;
+        int expected = 16;
         assertEquals(expected, score);
     }
 
